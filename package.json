@@ -1,0 +1,30 @@
+{
+  "name": "LiriBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "key.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "moment": "^2.24.0",
+    "moments": "0.0.2",
+    "node-spotify-api": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MourizioZeland/LiriBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MourizioZeland/LiriBot/issues"
+  },
+  "homepage": "https://github.com/MourizioZeland/LiriBot#readme"
+}
